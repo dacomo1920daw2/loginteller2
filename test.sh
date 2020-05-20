@@ -37,4 +37,4 @@ then
 	echo "Problems cleaning temporary  files"
 	exit 5
 fi
-exit 0
+exit 10
